@@ -11,7 +11,7 @@ import { keyboardController, KEY_CODE_PAUSE, KEY_CODE_LEFT, KEY_CODE_RIGHT } fro
 import { Ball } from './Ball.esm.js';
 import { GameState } from './GameState.esm.js';
 
-const PLAYER_SPEED = 14;
+const PLAYER_SPEED = 20;
 
 class Game extends Common {
 	constructor() {
